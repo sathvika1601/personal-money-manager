@@ -1,6 +1,6 @@
-# Expense Tracker (React)
+# Personal Money Manager (React)
 
-This is a React version of the [ JS Expense Tracker]. It uses functional components with hooks and the context API
+This is a React version of the [ JS Personal Money Manager]. It uses functional components with hooks and the context API
 
 ## Usage
 ```
